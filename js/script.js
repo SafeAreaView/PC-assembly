@@ -7,7 +7,7 @@ progress.style.opacity = 1;
 //ТАЙМЕР
 document.addEventListener("DOMContentLoaded", function () {
     // конечная дата, например 1 июля 2021
-    const deadline = new Date(2022, 03, 01);
+    const deadline = new Date(2022, 05, 01);
     // id таймера
     let timerId = null;
     // склонение числительных
